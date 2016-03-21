@@ -1,6 +1,6 @@
 //
-//  csTests.m
-//  csTests
+//  AFNetworkingSYTests.m
+//  AFNetworkingSYTests
 //
 //  Created by hl on 16/3/21.
 //  Copyright © 2016年 hl. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface csTests : XCTestCase
+@interface AFNetworkingSYTests : XCTestCase
 
 @end
 
-@implementation csTests
+@implementation AFNetworkingSYTests
 
 - (void)setUp {
     [super setUp];
